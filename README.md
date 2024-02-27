@@ -1,4 +1,5 @@
 # deep-learning-challenge
+This assignment was done by myself, but with the aid of internet resources. 
 
 
 ## Analysis Objective
